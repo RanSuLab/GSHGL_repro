@@ -1,0 +1,16 @@
+torch>=2.0
+torch-geometric>=2.4
+torchvision
+timm>=0.9
+huggingface_hub
+numpy
+pandas
+scikit-learn
+joblib
+tqdm
+loguru
+matplotlib
+Pillow
+opencv-python
+requests
+openslide-python
