@@ -1,0 +1,13 @@
+{
+  "train": {
+    "NUM_EPOCHS": 200,
+    "BATCH_SIZE": 8,
+    "N_SPLITS": 5,
+    "PATIENCE": 50
+  },
+  "pretrain": {
+    "NUM_EPOCHS": 50,
+    "BATCH_SIZE_PER_GPU": 2,
+    "LEARNING_RATE": 1e-05
+  }
+}
