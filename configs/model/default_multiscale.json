@@ -1,0 +1,15 @@
+{
+  "pretrain": {
+    "INPUT_DIM": 1536,
+    "HIDDEN_DIM": 512,
+    "GAT_HEADS": 8,
+    "DROPOUT": 0.5,
+    "PROJ_DIM": 256
+  },
+  "train": {
+    "INPUT_DIM": 1536,
+    "HIDDEN_DIM": 512,
+    "GAT_HEADS": 8,
+    "DROPOUT": 0.5
+  }
+}
